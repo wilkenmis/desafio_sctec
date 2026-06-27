@@ -1,0 +1,10 @@
+desafio_senai/
+├── data/                      # Dataset (Sample Superstore.csv)
+├── dev/                       # Scripts experimentais, rascunhos, testes de código
+├── docs/                      # Documentação de apoio, logs, guias[cite: 3]
+├── scrum_development/         # Suas notas de Scrum (mantidas no Git, fora do .zip)
+├── .venv/                     # Ambiente virtual (ignorado pelo Git)
+├── .gitignore                 # Arquivos que o Git deve ignorar
+├── requirements.txt           # Lista de bibliotecas para instalação (raiz para facilitar)
+├── notebook.ipynb             # SEU CÓDIGO FINAL (Entrega SCTEC)
+└── README.md                  # SUA DOCUMENTAÇÃO FINAL (Entrega SCTEC)
